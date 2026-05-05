@@ -1,1 +1,1 @@
-This director conatains shell redirection scripts
+This director contains shell redirection scripts
